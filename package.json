@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/lenamax2355.plainjs-ktn6lixs",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve ULBP8QEJrD6CbCdTC0Lq --open"
+  }
+}
